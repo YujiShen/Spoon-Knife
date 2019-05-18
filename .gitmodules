@@ -1,3 +1,4 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/YujiShen/test.git
+	branch = develop
